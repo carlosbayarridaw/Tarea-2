@@ -124,3 +124,10 @@ El `.gitignore` local solo afecta al repositorio en el que está creado
 En esta práctica lo he usado para las reglas de `dir1`, `dir2` y `dir3`
 
 La diferencia principal es que el global lo puedo usar para archivos que normalmente no quiero subir en ningún proyecto, mientras que el local lo uso para reglas concretas de cada repositorio
+
+## Commit y push
+
+![Imagen17](capturas/imagen-17.png)
+![Imagen18](capturas/imagen-18.png)
+![Imagen19](capturas/imagen-19.png)
+
